@@ -2,14 +2,13 @@
 
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/DJN-1" width="100%"/> </a>
 
-### ✨ Statistics
-<div align="center">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DJN-1&show_icons=true&theme=holi" width="32%"/>
-  <img alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=larrry72" width="32%"/>
-  <img alt="mazandi profile" src="http://mazandi.herokuapp.com/api?handle=larrry72&theme=warm" width="32%"/>
-</div>
-<div>
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJN-1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+
+<h3>✨ Statistics</h3>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DJN-1&show_icons=true&theme=holi" width="320"/>
+  <img alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=larrry72" width="320"/>
+  <img alt="mazandi profile" src="http://mazandi.herokuapp.com/api?handle=larrry72&theme=warm" width="320"/>
 </div>
 
 
