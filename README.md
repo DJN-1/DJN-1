@@ -3,7 +3,6 @@
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/DJN-1" width="100%"/> </a>
 
 ### ✨ Statistics
-### ✨ Statistics
 
 <!-- 첫 줄: solved.ac + mazandi -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
